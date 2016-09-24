@@ -7,3 +7,15 @@
 2016-09-24 13:38:36,729 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jessica\Desktop\Accemture\SenaiCursoJava\ProjetoFinalSenaiRepossitorio\ProjetoFInalAccentureVidaSaudavel\ProjetoAlimentosSuadaveis\src\main\resources
 2016-09-24 13:38:36,751 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-09-24 13:38:36,752 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jessica\Desktop\Accemture\SenaiCursoJava\ProjetoFinalSenaiRepossitorio\ProjetoFInalAccentureVidaSaudavel\ProjetoAlimentosSuadaveis\src\test\resources
+2016-09-24 13:55:51,444 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-24 13:55:51,445 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jessica\Desktop\Accemture\SenaiCursoJava\ProjetoFinalSenaiRepossitorio\ProjetoFInalAccentureVidaSaudavel\ProjetoAlimentosSuadaveis\src\main\resources
+2016-09-24 13:55:51,453 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-24 13:55:51,454 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jessica\Desktop\Accemture\SenaiCursoJava\ProjetoFinalSenaiRepossitorio\ProjetoFInalAccentureVidaSaudavel\ProjetoAlimentosSuadaveis\src\test\resources
+2016-09-24 13:56:14,025 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-24 13:56:14,026 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jessica\Desktop\Accemture\SenaiCursoJava\ProjetoFinalSenaiRepossitorio\ProjetoFInalAccentureVidaSaudavel\ProjetoAlimentosSuadaveis\src\main\resources
+2016-09-24 13:56:14,033 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-24 13:56:14,059 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jessica\Desktop\Accemture\SenaiCursoJava\ProjetoFinalSenaiRepossitorio\ProjetoFInalAccentureVidaSaudavel\ProjetoAlimentosSuadaveis\src\test\resources
+2016-09-24 13:56:41,870 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-24 13:56:41,871 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jessica\Desktop\Accemture\SenaiCursoJava\ProjetoFinalSenaiRepossitorio\ProjetoFInalAccentureVidaSaudavel\ProjetoAlimentosSuadaveis\src\main\resources
+2016-09-24 13:56:41,881 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-24 13:56:41,908 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jessica\Desktop\Accemture\SenaiCursoJava\ProjetoFinalSenaiRepossitorio\ProjetoFInalAccentureVidaSaudavel\ProjetoAlimentosSuadaveis\src\test\resources
