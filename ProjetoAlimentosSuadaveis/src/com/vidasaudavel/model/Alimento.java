@@ -7,6 +7,7 @@ import java.util.List;
 
 
 
+
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.SessionScoped;
 import javax.persistence.Column;
@@ -15,6 +16,8 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
+
+import org.primefaces.model.DefaultStreamedContent;
 
 @ManagedBean(name="mbAlimento")
 @SessionScoped
@@ -30,6 +33,8 @@ public class Alimento implements Serializable {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private long idAlimento;
+	@Column
+	private String nomeAlimento;
 	@Column
 	private String descricaoGeral;
 	@Column
@@ -94,6 +99,13 @@ public class Alimento implements Serializable {
 	public void setImagem(byte[] imagem) {
 		this.imagem = imagem;
 	}
+	public String getNomeAlimento() {
+		return nomeAlimento;
+	}
+	public void setNomeAlimento(String nomeAlimento) {
+		this.nomeAlimento = nomeAlimento;
+	}
+
 	
 //	private List<Componente> componente;
 	

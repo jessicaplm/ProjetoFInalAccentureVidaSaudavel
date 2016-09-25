@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.vidasaudavel.controller.AlimentoController"/>
+<fullyQualifiedTypeName name="org.primefaces.model.UploadedFile"/>
+<fullyQualifiedTypeName name="javax.faces.application.FacesMessage"/>
+<fullyQualifiedTypeName name="javax.faces.context.FacesContext"/>
+<fullyQualifiedTypeName name="java.io.ByteArrayInputStream"/>
+<fullyQualifiedTypeName name="org.primefaces.model.DefaultStreamedContent"/>
+</qualifiedTypeNameHistroy>
